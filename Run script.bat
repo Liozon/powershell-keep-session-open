@@ -1,0 +1,1 @@
+ start powershell -command "& '.\Keep session open.ps1'"
